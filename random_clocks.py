@@ -1,5 +1,8 @@
-# Generated using Chat GPT then heavily tweaked to get something that actually worked.
 # Author: Walter Schreppers
+# Generated using Chat GPT then heavily tweaked to get something that actually worked.
+# Remarks: Some ugly globals are used, and also the i in range(16) etc could be done better.
+# But for a quick and simple script it does the job.
+#
 
 import random
 import math
